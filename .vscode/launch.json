@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Oppgave2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/oppgave4-løsning/bin/Debug/net7.0/oppgave4-løsning.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/oppgave4-løsning",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Oppgave1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/oppgave4-løsning/bin/Debug/net7.0/oppgave4-løsning.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/oppgave4-løsning",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Oppgave2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/oppgave4-løsning/bin/Debug/net7.0/oppgave4-løsning.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/oppgave4-løsning",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "name": "Oppgave1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/oppgave1-løsning/bin/Debug/net7.0/oppgave1-løsning.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/oppgave1-løsning",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+    ]
+}

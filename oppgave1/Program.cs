@@ -10,6 +10,7 @@ class Program
     {
         allePersoner = HentAllePersoner();
         var brukerId = "1";
+        var tester123 = "12312312312"
 
         var person = HentPersonMedId(brukerId);
         // Skal printe ut
